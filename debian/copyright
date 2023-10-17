@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: udev-config-hybris
-Source: https://github.com/hybris-mobian/udev-config-hybris
+Source: https://github.com/droidian/udev-config-hybris
 
 Files: *
 Copyright: 2020 Giuseppe "r3vn" Corti <giuseppe.corti@protonmail.com>

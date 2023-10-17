@@ -4,8 +4,8 @@ Section: misc
 Priority: optional
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.5.0.3
-Vcs-Browser: https://github.com/hybris-mobian/udev-config-hybris
-Vcs-Git: https://github.com/hybris-mobian-releng/udev-config-hybris.git
+Vcs-Browser: https://github.com/droidian/udev-config-hybris
+Vcs-Git: https://github.com/droidian/udev-config-hybris.git
 
 Package: udev-config-hybris
 Architecture: all
